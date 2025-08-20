@@ -225,6 +225,6 @@ details.
 ## 📬 Contact
 
 For questions or feedback, reach out via GitHub Issues or connect with
-the project maintainer at \[shervindanesh8282@gmai.com\].
+the project maintainer at \[shervindanesh8282@gmail.com\].
 
 Happy coding! 🎉
