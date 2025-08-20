@@ -88,7 +88,7 @@ Alphabet-Recognition/
 1.  Clone the repository:
 
     ``` bash
-    git clone https://github.com/shahin-ro/Alphabet-Recognition.git
+    git clone https://github.com/shervinnd/Alphabet-Recognition.git
     cd Alphabet-Recognition
     ```
 
@@ -225,6 +225,6 @@ details.
 ## 📬 Contact
 
 For questions or feedback, reach out via GitHub Issues or connect with
-the project maintainer at \[your-email@example.com\].
+the project maintainer at \[shervindanesh8282@gmai.com\].
 
 Happy coding! 🎉
